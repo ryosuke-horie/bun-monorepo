@@ -1,7 +1,7 @@
 {
   "name": "lib",
   "version": "0.0.0",
-  "main": "dist/index.js",
+  "main": "src/dist/index.js",
   "dependencies": {
     "dayjs": "^1.11.11"
   }
